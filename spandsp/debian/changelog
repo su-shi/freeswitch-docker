@@ -1,0 +1,11 @@
+spandsp (3.0.0-42) unstable; urgency=medium
+
+  * Packaged for FreeSWITCH
+
+ -- FreeSWITCH Solutions <packages@freeswitch.com>  Wed, 22 Jul 2020 12:50:37 +0200
+
+spandsp (3.0.0-0) unstable; urgency=low
+
+  * Stub Release.
+
+ -- FreeSWITCH Solutions <packages@freeswitch.com>  Wed, 22 Jul 2020 10:50:37 +0200
